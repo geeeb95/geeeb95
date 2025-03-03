@@ -1,6 +1,6 @@
  👋 Hi, I’m @geeeb95
  👀 I’m interested in ML and coding
- 🌱 I’m currently learning Jest
+ 🌱 I’m currently learning QA automation
 
 
 <!---
